@@ -1,6 +1,6 @@
 # Bilingual Vocabulary Manager
 
-A desktop application for managing vocabulary words with bilingual support (English-Persian) and Anki integration.
+A desktop application for managing vocabulary words with bilingual support and Anki integration.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PySide6](https://img.shields.io/badge/PySide6-GUI%20Framework-green)
