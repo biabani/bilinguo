@@ -13,7 +13,6 @@ A desktop application for managing vocabulary words with bilingual support (Engl
 - 💾 **SQLite database** storage
 - 📊 **Advanced management** with search and sorting
 - 📤 **Anki export** in CSV format
-- 🎯 **Beautiful and intuitive** GUI
 - 🔄 **Flashcard status** synchronization
 
 ## 📦 Installation
