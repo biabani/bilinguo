@@ -33,7 +33,7 @@ cd bilinguo
 
 ### Install requirements
 ```
-pip install -r requirements.txt
+pip install PySide6 requests
 ```
 ### Run the Application
 
