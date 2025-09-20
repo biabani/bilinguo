@@ -27,7 +27,7 @@ A desktop application for managing vocabulary words with bilingual support (Engl
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bilinguo.git
+git clone https://github.com/biabani/bilinguo.git
 cd bilinguo
 ```
 
